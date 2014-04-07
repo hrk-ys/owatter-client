@@ -47,4 +47,6 @@ AngularJSを使ったサンプルプロジェクト
         ├── runner.html
         └── spec
             └── controllers
-              └── main.js
+                └── main.js
+
+
